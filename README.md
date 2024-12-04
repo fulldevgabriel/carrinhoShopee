@@ -19,8 +19,8 @@ Este projeto é uma implementação simples de um **carrinho de compras**, inspi
 ### 1. Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/fulldevgabriel/carrinhoShopee
+cd carrinhoShopee
 ```
 
 ### 2. Executando o Projeto
