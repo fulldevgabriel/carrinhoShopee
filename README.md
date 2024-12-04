@@ -21,3 +21,11 @@ Este projeto é uma implementação simples de um **carrinho de compras**, inspi
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+```
+
+### 2. Executando o Projeto
+Execute o projeto no terminal utilizando o Node.js com o seguinte comando:
+
+```bash
+node index.js
+```
